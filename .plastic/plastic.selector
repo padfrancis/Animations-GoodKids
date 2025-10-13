@@ -1,0 +1,3 @@
+repository "My project 2025-10-10_07-47-04/Animation Good Kids@18968237951051@cloud"
+  path "/"
+    smartbranch "/main" changeset "15"               
